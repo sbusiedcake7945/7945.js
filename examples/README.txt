@@ -1,0 +1,1 @@
+sadece bazı basit örnekler verilmiştir bunları botunuzda birebir aynı şekilde çalıştıramazsınız

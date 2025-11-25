@@ -1,0 +1,19 @@
+{
+  "name": "7945.js",
+  "version": "1.0.0",
+  "description": "Discord botlarını basit ve eforsuz yazmak için modül",
+  "main": "index.js",
+  "keywords": ["discord", "bot", "easy", "music", "database", "web-panel"],
+  "author": "sbusiedcake7945",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2",
+    "node-fetch": "^2.6.7",
+    "mysql2": "^3.6.5",
+    "mongodb": "^5.8.1",
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
